@@ -1,14 +1,14 @@
 --SELECT * FROM customer_reviews
 
--- Query to clean whitespace issues in the ReviewText column
+-- Consulta para limpiar problemas de espacios en blanco en la columna ReviewText
 
 SELECT 
-    ReviewID,  -- Selects the unique identifier for each review
-    CustomerID,  -- Selects the unique identifier for each customer
-    ProductID,  -- Selects the unique identifier for each product
-    ReviewDate,  -- Selects the date when the review was written
-    Rating,  -- Selects the numerical rating given by the customer (e.g., 1 to 5 stars)
-    -- Cleans up the ReviewText by replacing double spaces with single spaces to ensure the text is more readable and standardized
+    ReviewID,  -- Selecciona el identificador único de cada reseña
+    CustomerID,  -- Selecciona el identificador único de cada cliente
+    ProductID,  -- Selecciona el identificador único de cada producto
+    ReviewDate,  -- Selecciona la fecha en la que se escribió la reseña
+    Rating,  -- Selecciona la calificación numérica dada por el cliente (por ejemplo, de 1 a 5 estrellas)
+    -- Limpia el texto de la reseña reemplazando dobles espacios por espacios simples para asegurar que el texto sea más legible y esté estandarizado
     REPLACE(ReviewText, '  ', ' ') AS ReviewText
 FROM 
-    dbo.customer_reviews;  -- Specifies the source table from which to select the data
+    dbo.customer_reviews;  -- Especifica la tabla de origen de la cual se seleccionan los datos
