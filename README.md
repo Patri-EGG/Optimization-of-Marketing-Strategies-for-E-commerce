@@ -4,7 +4,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZGUzNmNlNTItZTI3Yi00M2FlLTg2NWQtYWQzMDk2Z
 
 # Optimización de Estrategias de Marketing para E-commerce
 
-!Snapshot.png
+![](Snapshot.png)
 
 ## Descripción del Proyecto
 Este proyecto de análisis de datos tiene como objetivo **optimizar las estrategias de marketing** para un negocio de venta minorista en línea. La empresa ha enfrentado una **reducción en la participación de los clientes** y una **disminución de las tasas de conversión**, a pesar de haber lanzado varias campañas de marketing en línea. El análisis busca identificar áreas de mejora en las estrategias de marketing y proponer soluciones basadas en datos para aumentar la participación de los clientes y las tasas de conversión.
