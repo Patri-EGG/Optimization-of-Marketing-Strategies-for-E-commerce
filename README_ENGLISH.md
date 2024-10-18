@@ -1,7 +1,7 @@
 # Optimization of Marketing Strategies for E-commerce
 
 ## PowerBi Dashnoard:
-** (https://app.powerbi.com/view?r=eyJrIjoiZGUzNmNlNTItZTI3Yi00M2FlLTg2NWQtYWQzMDk2ZjRhMThjIiwidCI6ImVkNmQ1Yjg4LTgzNGUtNGIwYy04N2I4LTAyMDU2MTUxNDI1OSJ9)
+https://app.powerbi.com/view?r=eyJrIjoiZGUzNmNlNTItZTI3Yi00M2FlLTg2NWQtYWQzMDk2ZjRhMThjIiwidCI6ImVkNmQ1Yjg4LTgzNGUtNGIwYy04N2I4LTAyMDU2MTUxNDI1OSJ9
 
 ## Project Description
 This data analysis project aims to **optimize the marketing strategies** for an online retail business. The company has faced a **reduction in customer engagement** and **decreased conversion rates**, despite launching several new online marketing campaigns. The analysis seeks to identify areas for improvement in their marketing strategies and provide data-driven solutions to enhance customer engagement and conversion rates.
