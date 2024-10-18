@@ -38,3 +38,6 @@ Este proyecto de análisis de datos tiene como objetivo **optimizar las estrateg
 ## Contacto
 - **LinkedIn:** [Patricia González Gruber](https://www.linkedin.com/in/patricia-gonzalez-gruber/)
 - **Correo:** triciax1@gmail.com
+
+## Ver Dashboard PowerBi aquí:
+https://app.powerbi.com/view?r=eyJrIjoiZGUzNmNlNTItZTI3Yi00M2FlLTg2NWQtYWQzMDk2ZjRhMThjIiwidCI6ImVkNmQ1Yjg4LTgzNGUtNGIwYy04N2I4LTAyMDU2MTUxNDI1OSJ9
