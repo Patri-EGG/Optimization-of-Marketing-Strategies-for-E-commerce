@@ -1,7 +1,4 @@
 
-## Ver Dashboard PowerBi aquí:
-https://app.powerbi.com/view?r=eyJrIjoiZGUzNmNlNTItZTI3Yi00M2FlLTg2NWQtYWQzMDk2ZjRhMThjIiwidCI6ImVkNmQ1Yjg4LTgzNGUtNGIwYy04N2I4LTAyMDU2MTUxNDI1OSJ9
-
 # Optimización de Estrategias de Marketing para E-commerce
 
 ![](Snapshot.png)
